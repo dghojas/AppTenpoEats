@@ -1,0 +1,240 @@
+import { StyleSheet, Dimensions } from 'react-native';
+const win = Dimensions.get('window');
+const ratio = win.width / 541;
+const screenHeight = Math.round(Dimensions.get('window').height);
+
+export default StyleSheet.create({
+  areaView: {
+    flex: 1,
+    backgroundColor: '#d4f9f5',
+  },
+  viewAddress: {
+    borderTopLeftRadius: 25,
+    borderTopRightRadius: 25,
+    paddingVertical: 15,
+    paddingHorizontal: 15,
+    justifyContent: 'space-between',
+    flexDirection: 'row',
+  },
+  viewFlexRow: {
+    flexDirection: 'row',
+  },
+  textTitLocation: {
+    fontWeight: 'bold',
+    fontSize: 12,
+    color: '#008f7e',
+  },
+  viewRsAddress: {
+    marginLeft: 10,
+  },
+  iconLocation: {
+    width: 35,
+    height: 35,
+    borderRadius: 50,
+    backgroundColor: '#008f7e',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  textAddress: {
+    color: '#2e9e8f',
+    fontFamily: 'Poppins-ExtraLight',
+    fontSize: 16,
+  },
+  inputSearch: {
+    width: '100%',
+    color: '#008f7e',
+    borderRadius: 50,
+    fontSize: 12,
+    fontFamily: 'Poppins-ExtraLight',
+    zIndex: 1,
+  },
+  imageMaps: {
+    marginTop: -22,
+    width: win.width,
+    height: 362 * ratio,
+    zIndex: -1,
+  },
+  viewOptions: {
+    padding: 20,
+    backgroundColor: '#f2f2f2',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
+  btnOption: {
+    height: 35,
+    padding: 6,
+    borderColor: '#008f7e',
+    borderWidth: 1,
+    borderRadius: 6,
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
+    flexBasis: '48%',
+  },
+  textOption: {
+    fontSize: 11,
+    color: '#008f7e',
+    marginLeft: 5,
+  },
+  viewInfo: {
+    width: '100%',
+    height: '100%',
+    backgroundColor: 'white',
+    paddingTop: 50,
+    paddingHorizontal: 15,
+    marginTop: -22,
+  },
+  viewInfoPaddingCero: {
+    paddingTop: 0,
+  },
+  panel: {
+    padding: 20,
+    backgroundColor: '#FFFFFF',
+    paddingTop: 20,
+  },
+  textAlignCenter: {
+    alignItems: 'center',
+  },
+  header: {
+    backgroundColor: '#FFFFFF',
+    shadowColor: '#333333',
+    shadowOffset: { width: -1, height: -3 },
+    shadowRadius: 2,
+    shadowOpacity: 0.4,
+    paddingTop: 20,
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+  },
+  panelHeader: {
+    alignItems: 'center',
+  },
+  panelHandle: {
+    width: 40,
+    height: 8,
+    borderRadius: 4,
+    backgroundColor: '#00000040',
+    marginBottom: 10,
+  },
+  panelTitle: {
+    fontSize: 27,
+    height: 35,
+  },
+  panelSubtitle: {
+    fontSize: 14,
+    color: 'gray',
+    height: 30,
+    marginBottom: 10,
+  },
+  flexOne: {
+    flex: 1,
+  },
+  flexGrowOne: {
+    flexGrow: 1,
+  },
+  viewEmpty: {
+    paddingHorizontal: 30,
+    paddingVertical: 20,
+    height: '100%',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  textEmptyOne: {
+    fontSize: 12,
+    fontWeight: 'bold',
+    color: '#008f7e',
+    textAlign: 'center',
+  },
+  textEmptyTwo: {
+    fontSize: 15,
+    color: '#008f7e',
+    textAlign: 'center',
+    fontFamily: 'Poppins-ExtraLight',
+  },
+  bottomSheet: {
+    paddingHorizontal: 20,
+  },
+  lineTop: {
+    width: 60,
+    height: 4,
+    backgroundColor: 'grey',
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    marginTop: 20,
+    marginBottom: 20,
+    borderRadius: 50,
+  },
+  singleImage: {
+    width: 150,
+    height: 150,
+    borderRadius: 15,
+    marginLeft: 'auto',
+    marginRight: 'auto',
+    marginBottom: 25,
+  },
+  singleTitle: {
+    textAlign: 'center',
+    fontSize: 25,
+    fontWeight: 'bold',
+    color: '#333333',
+    marginBottom: 10,
+  },
+  singleAddress: {
+    textAlign: 'center',
+    fontSize: 12,
+    color: '#cccbcc',
+    fontFamily: 'Poppins-Regular',
+  },
+  viewBottomSheetKM: {
+    height: screenHeight - 300,
+    backgroundColor: '#f1f1f1',
+    borderTopLeftRadius: 10,
+    borderTopRightRadius: 10,
+  },
+  headerKM: {
+    padding: 25,
+    backgroundColor: '#fff',
+  },
+  textAreaSearch: {
+    color: '#333333',
+    fontSize: 18,
+    fontWeight: 'bold',
+    textAlign: 'center',
+    marginBottom: 10,
+  },
+  textInfoArea: {
+    color: '#b0b0b0',
+    textAlign: 'center',
+    fontSize: 13,
+    fontFamily: 'Poppins-Regular',
+  },
+  viewRangeSlider: {
+    marginTop: 15,
+    marginBottom: 10,
+  },
+  heiMap: {
+    height: '100%',
+    backgroundColor: 'red',
+  },
+  bgImageKM: {
+    width: '100%',
+    height: 300,
+    resizeMode: 'cover',
+    justifyContent: 'flex-end',
+    alignItems: 'center',
+  },
+  btnAplicar: {
+    backgroundColor: '#01baa4',
+    marginBottom: 50,
+    width: '80%',
+    paddingVertical: 20,
+    paddingHorizontal: 20,
+    borderRadius: 10,
+  },
+  textAplicar: {
+    fontSize: 16,
+    textAlign: 'center',
+    // fontFamily: 'Poppins-Regular',
+    color: '#fff',
+    fontWeight: 'bold',
+  },
+});

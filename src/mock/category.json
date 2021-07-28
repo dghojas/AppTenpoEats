@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Hamburguesas",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 2,
+      "title": "Sushi",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 3,
+      "title": "Chilena",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 4,
+      "title": "Comida rápida",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 5,
+      "title": "Pizza",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 6,
+      "title": "Mexicana",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 7,
+      "title": "Justo Coins",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 8,
+      "title": "Vegetariana",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 9,
+      "title": "Italiana",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 10,
+      "title": "Dulces",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 11,
+      "title": "Chocolates",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 12,
+      "title": "Panaderías",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 13,
+      "title": "Helado",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 14,
+      "title": "China",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    },
+    {
+      "id": 15,
+      "title": "Peruana",
+      "image": "https://via.placeholder.com/160x80/09f/fff.webp?text=."
+    }
+  ]
+}

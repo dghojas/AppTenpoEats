@@ -1,0 +1,103 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Mc Donalds",
+      "image": "https://via.placeholder.com/150/09f/fff.webp",
+      "start": "3.5",
+      "time": "10-50",
+      "discount": "50",
+      "address": "Av. Francisco Bilbao 3975, La Reina"
+    },
+    {
+      "id": 2,
+      "title": "Melt Pizzas",
+      "image": "https://via.placeholder.com/150/09f/fff.webp",
+      "start": "3.5",
+      "time": "10-50",
+      "discount": "50",
+      "address": "Av. Francisco Bilbao 3975, La Reina"
+    },
+    {
+      "id": 3,
+      "title": "YOKONO",
+      "image": "https://via.placeholder.com/150/09f/fff.webp",
+      "start": "3.5",
+      "time": "10-50",
+      "discount": "50",
+      "address": "Av. Francisco Bilbao 3975, La Reina"
+    },
+    {
+      "id": 4,
+      "title": "Domino",
+      "image": "https://via.placeholder.com/150/09f/fff.webp",
+      "start": "3.5",
+      "time": "10-50",
+      "discount": "50",
+      "address": "Av. Francisco Bilbao 3975, La Reina"
+    },
+    {
+      "id": 5,
+      "title": "Nueva China",
+      "image": "https://via.placeholder.com/150/09f/fff.webp",
+      "start": "3.5",
+      "time": "10-50",
+      "discount": "50",
+      "address": "Av. Francisco Bilbao 3975, La Reina"
+    },
+    {
+      "id": 6,
+      "title": "Nueva China",
+      "image": "https://via.placeholder.com/150/09f/fff.webp",
+      "start": "3.5",
+      "time": "10-50",
+      "discount": "50",
+      "address": "Av. Francisco Bilbao 3975, La Reina"
+    },
+    {
+      "id": 7,
+      "title": "Central Pizza",
+      "image": "https://via.placeholder.com/150/09f/fff.webp",
+      "start": "3.5",
+      "time": "10-50",
+      "discount": "50",
+      "address": "Av. Francisco Bilbao 3975, La Reina"
+    },
+    {
+      "id": 8,
+      "title": "La Fuente Reina",
+      "image": "https://via.placeholder.com/150/09f/fff.webp",
+      "start": "3.5",
+      "time": "10-50",
+      "discount": "50",
+      "address": "Av. Francisco Bilbao 3975, La Reina"
+    },
+    {
+      "id": 9,
+      "title": "Trattoria Rita",
+      "image": "https://via.placeholder.com/150/09f/fff.webp",
+      "start": "3.5",
+      "time": "10-50",
+      "discount": "50",
+      "address": "Av. Francisco Bilbao 3975, La Reina"
+    },
+    {
+      "id": 10,
+      "title": "The Pizza Factory",
+      "image": "https://via.placeholder.com/150/09f/fff.webp",
+      "start": "3.5",
+      "time": "10-50",
+      "discount": "50",
+      "address": "Av. Francisco Bilbao 3975, La Reina"
+    },
+    {
+      "id": 11,
+      "title": "The Pizza Factory",
+      "image": "https://via.placeholder.com/150/09f/fff.webp",
+      "start": "3.5",
+      "time": "10-50",
+      "discount": "50",
+      "address": "Av. Francisco Bilbao 3975, La Reina"
+    }
+  ]
+}

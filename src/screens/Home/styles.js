@@ -1,0 +1,70 @@
+import { StyleSheet } from 'react-native';
+
+export default StyleSheet.create({
+  headerPanel: {
+    display: 'flex',
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+    paddingVertical: 15,
+    paddingHorizontal: 15,
+  },
+  btnPerfil: {
+    shadowOffset: { width: 0, height: 2 },
+    shadowColor: '#000',
+    shadowOpacity: 0.2,
+    elevation: 5,
+    borderRadius: 50,
+    borderWidth: 2,
+    borderColor: '#04baa4',
+  },
+  imagePerfil: {
+    width: 45,
+    height: 45,
+  },
+  imageSearch: {
+    width: '100%',
+    height: 210,
+  },
+  iconMap: { marginRight: 10 },
+  infoAddress: {
+    borderTopLeftRadius: 25,
+    borderTopRightRadius: 25,
+    paddingVertical: 15,
+    paddingHorizontal: 15,
+    backgroundColor: '#d4f9f5',
+    justifyContent: 'center',
+    alignItems: 'center',
+    flexDirection: 'row',
+  },
+  textAddress: {
+    color: '#2e9e8f',
+  },
+  viewData: {
+    shadowOffset: { width: 0, height: -3 },
+    shadowColor: '#000',
+    shadowOpacity: 0.1,
+    shadowRadius: 2,
+    elevation: 4,
+    borderTopLeftRadius: 25,
+    borderTopRightRadius: 25,
+    backgroundColor: 'white',
+    paddingVertical: 20,
+  },
+  textRestaurant: {
+    paddingTop: 15,
+    paddingHorizontal: 15,
+    marginBottom: 10,
+    textTransform: 'uppercase',
+    fontSize: 18,
+    fontFamily: 'Poppins-Bold',
+  },
+  textCategory: {
+    paddingTop: 15,
+    paddingHorizontal: 15,
+    marginBottom: 10,
+    textTransform: 'uppercase',
+    fontSize: 18,
+    fontFamily: 'Poppins-Bold',
+  },
+});
