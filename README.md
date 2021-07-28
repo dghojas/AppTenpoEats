@@ -11,7 +11,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 _Debe instalar todas las dependencias del proyecto_
 
 ```
-npm install || yarn add
+npm install o npm i || yarn
 ```
 
 ### Despliegue 📦
