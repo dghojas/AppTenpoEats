@@ -43,8 +43,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Screenshot 📸
 
-<!-- ![Alt text](.//image.png?raw=true "Optional Title") -->
-
 ![Screenshot](screenshot/Screen001.png)
 
 ![Screenshot](screenshot/Screen002.png)
