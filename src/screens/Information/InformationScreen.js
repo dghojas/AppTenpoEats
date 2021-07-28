@@ -9,7 +9,9 @@ const Information = ({ navigation }) => {
       <Text style={styles.textProject}>Proyecto de TenpoEats</Text>
       <Text
         style={styles.linkRepo}
-        onPress={() => Linking.openURL('http://google.com')}>
+        onPress={() =>
+          Linking.openURL('https://github.com/dghojas/AppTenpoEats')
+        }>
         Link de GitHub Repositorio
       </Text>
 
