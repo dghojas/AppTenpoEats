@@ -41,8 +41,6 @@ yarn android
 
 ## Uso de 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 - [React Native](https://reactnative.dev/)
 - [Redux](https://es.redux.js.org/)
 - [Redux Thunk](https://github.com/reduxjs/redux-thunk)
