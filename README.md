@@ -1,6 +1,6 @@
 # App TenpoEats
 
-_Una app para busqueda la restaurante. Las personas que quieran comer algo rico. Puedes revisar la app React Native_
+_Una app para la busqueda de restaurantes. Ideal para las personas que quieran comer algo rico a la puerta de su casa. Puedes revisar la app React Native_
 
 ## Comenzando 🚀
 
