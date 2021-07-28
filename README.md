@@ -45,19 +45,19 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 <!-- ![Alt text](.//image.png?raw=true "Optional Title") -->
 
-![Screenshot](screenshot/screen001.png)
+![Screenshot](screenshot/Screen001.png)
 
-![Screenshot](screenshot/screen002.png)
+![Screenshot](screenshot/Screen002.png)
 
-![Screenshot](screenshot/screen003.png)
+![Screenshot](screenshot/Screen003.png)
 
-![Screenshot](screenshot/screen004.png)
+![Screenshot](screenshot/Screen004.png)
 
-![Screenshot](screenshot/screen005.png)
+![Screenshot](screenshot/Screen005.png)
 
-![Screenshot](screenshot/screen006.png)
+![Screenshot](screenshot/Screen006.png)
 
-![Screenshot](screenshot/screen007.png)
+![Screenshot](screenshot/Screen007.png)
 
 ## Autores ✒️
 
