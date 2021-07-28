@@ -1,6 +1,6 @@
 # App TenpoEats
 
-_Una app para la busqueda de restaurantes. Ideal para las personas que quieran comer algo rico a la puerta de su casa. Puedes revisar la app React Native_
+_Una app para la búsqueda de restaurantes. Ideal para personas que quieren comer algo rico en formato delivery. Puedes revisar la app React Native_
 
 ## Comenzando 🚀
 
@@ -8,7 +8,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Instalación 🔧
 
-_Debe instalar todas las dependencias del proyecto_
+_Instalar todas las dependencias del proyecto realizando lo siguiente:_
 
 ```
 npm install o npm i || yarn
@@ -16,7 +16,7 @@ npm install o npm i || yarn
 
 ### Despliegue 📦
 
-_Para levantar el proyecto de manera local debe realizar lo siguiente_
+_Para levantar el proyecto de manera local se debe realizar lo siguiente:_
 
 ```
 npm run start || yarn start
@@ -32,7 +32,7 @@ cd ios && pod install && cd ..
 
 ### Ejecutar 🚀
 
-_Ejecute su aplicación a través del Simulador o en un dispositivo real._
+_Ejecutar la aplicación a través del Simulador o en un dispositivo real._
 
 ```
 yarn ios
