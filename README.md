@@ -22,6 +22,14 @@ _Para levantar el proyecto de manera local debe realizar lo siguiente_
 npm run start || yarn start
 ```
 
+### Instalar Pod (dependencies) 📦
+
+_Instalar Pod iOS_
+
+```
+cd ios && pod install && cd ..
+```
+
 ### Ejecutar 🚀
 
 _Ejecute su aplicación a través del Simulador o en un dispositivo real._
