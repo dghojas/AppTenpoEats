@@ -65,4 +65,4 @@ yarn android
 
 ## Autores ✒️
 
-- **Daniel Godoy Hojas 🍃** - [dghojas](https://github.com/mts4)
+- **Daniel Godoy Hojas 🍃** - [dghojas](https://github.com/dghojas)
